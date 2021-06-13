@@ -1,0 +1,8 @@
+C:\Users\A\source\Repos\HamedRashnoCrudTest\HamedRashnoCrudTest.Domain\bin\Debug\netcoreapp3.1\HamedRashnoCrudTest.Domain.deps.json
+C:\Users\A\source\Repos\HamedRashnoCrudTest\HamedRashnoCrudTest.Domain\bin\Debug\netcoreapp3.1\HamedRashnoCrudTest.Domain.dll
+C:\Users\A\source\Repos\HamedRashnoCrudTest\HamedRashnoCrudTest.Domain\bin\Debug\netcoreapp3.1\HamedRashnoCrudTest.Domain.pdb
+C:\Users\A\source\Repos\HamedRashnoCrudTest\HamedRashnoCrudTest.Domain\obj\Debug\netcoreapp3.1\HamedRashnoCrudTest.Domain.AssemblyInfoInputs.cache
+C:\Users\A\source\Repos\HamedRashnoCrudTest\HamedRashnoCrudTest.Domain\obj\Debug\netcoreapp3.1\HamedRashnoCrudTest.Domain.AssemblyInfo.cs
+C:\Users\A\source\Repos\HamedRashnoCrudTest\HamedRashnoCrudTest.Domain\obj\Debug\netcoreapp3.1\HamedRashnoCrudTest.Domain.dll
+C:\Users\A\source\Repos\HamedRashnoCrudTest\HamedRashnoCrudTest.Domain\obj\Debug\netcoreapp3.1\HamedRashnoCrudTest.Domain.pdb
+C:\Users\A\source\Repos\HamedRashnoCrudTest\HamedRashnoCrudTest.Domain\obj\Debug\netcoreapp3.1\HamedRashnoCrudTest.Domain.csprojAssemblyReference.cache

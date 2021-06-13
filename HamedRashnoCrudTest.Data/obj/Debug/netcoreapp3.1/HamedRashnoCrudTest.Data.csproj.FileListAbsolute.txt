@@ -1,0 +1,13 @@
+C:\Users\A\source\Repos\HamedRashnoCrudTest\HamedRashnoCrudTest.Data\bin\Debug\netcoreapp3.1\HamedRashnoCrudTest.Domain.dll
+C:\Users\A\source\Repos\HamedRashnoCrudTest\HamedRashnoCrudTest.Data\obj\Debug\netcoreapp3.1\HamedRashnoCrudTest.Data.AssemblyInfoInputs.cache
+C:\Users\A\source\Repos\HamedRashnoCrudTest\HamedRashnoCrudTest.Data\obj\Debug\netcoreapp3.1\HamedRashnoCrudTest.Data.AssemblyInfo.cs
+C:\Users\A\source\Repos\HamedRashnoCrudTest\HamedRashnoCrudTest.Data\obj\Debug\netcoreapp3.1\HamedRashnoCrudTest.Data.csprojAssemblyReference.cache
+C:\Users\A\source\Repos\HamedRashnoCrudTest\HamedRashnoCrudTest.Data\bin\Debug\netcoreapp3.1\HamedRashnoCrudTest.Data.deps.json
+C:\Users\A\source\Repos\HamedRashnoCrudTest\HamedRashnoCrudTest.Data\bin\Debug\netcoreapp3.1\HamedRashnoCrudTest.Data.runtimeconfig.json
+C:\Users\A\source\Repos\HamedRashnoCrudTest\HamedRashnoCrudTest.Data\bin\Debug\netcoreapp3.1\HamedRashnoCrudTest.Data.runtimeconfig.dev.json
+C:\Users\A\source\Repos\HamedRashnoCrudTest\HamedRashnoCrudTest.Data\bin\Debug\netcoreapp3.1\HamedRashnoCrudTest.Data.dll
+C:\Users\A\source\Repos\HamedRashnoCrudTest\HamedRashnoCrudTest.Data\bin\Debug\netcoreapp3.1\HamedRashnoCrudTest.Data.pdb
+C:\Users\A\source\Repos\HamedRashnoCrudTest\HamedRashnoCrudTest.Data\bin\Debug\netcoreapp3.1\HamedRashnoCrudTest.Domain.pdb
+C:\Users\A\source\Repos\HamedRashnoCrudTest\HamedRashnoCrudTest.Data\obj\Debug\netcoreapp3.1\HamedRashnoCrudTest.Data.csproj.CopyComplete
+C:\Users\A\source\Repos\HamedRashnoCrudTest\HamedRashnoCrudTest.Data\obj\Debug\netcoreapp3.1\HamedRashnoCrudTest.Data.dll
+C:\Users\A\source\Repos\HamedRashnoCrudTest\HamedRashnoCrudTest.Data\obj\Debug\netcoreapp3.1\HamedRashnoCrudTest.Data.pdb
