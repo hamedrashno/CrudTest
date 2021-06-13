@@ -18,6 +18,7 @@ namespace HamedRashnoCrudTest.Ui.Web.Controllers
         }
         public IActionResult Index()
         {
+            // ToDo: Use Mapper
             var model = _customerService.All().Where(c => !c.Deleted).Select(c => new CustomerListViewModel
             {
                 Email = c.Email,
@@ -36,6 +37,7 @@ namespace HamedRashnoCrudTest.Ui.Web.Controllers
         [HttpPost]
         public IActionResult Create(CustomerCreateViewModel model)
         {
+            // ToDo: Use Mapper
             var entity = new CustomerEntity
             {
                 BankAccountNumber = model.BankAccountNumber,
